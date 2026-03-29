@@ -1,0 +1,15 @@
+{
+  "name": "qa-testing",
+  "version": "1.0.0",
+  "description": "agent harness to enable qa testing for web",
+  "keywords": [
+    "QA"
+  ],
+  "license": "ISC",
+  "author": "srishti-sahi",
+  "type": "commonjs",
+  "main": "main.js",
+  "scripts": {
+    "test": "npm run test"
+  }
+}

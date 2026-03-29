@@ -1,0 +1,24 @@
+node_modules/
+.venv/
+__pycache__/
+.pytest_cache/
+.mypy_cache/
+*.pyc
+*.log
+
+# Local env and machine-specific files
+.env
+.env.local
+.env.development.local
+.env.test.local
+.env.production.local
+.env.development
+.env.test
+.env.production
+
+# OS/editor metadata
+.DS_Store
+
+# Local agent skill state; not part of the project source
+.agents/
+.claude/

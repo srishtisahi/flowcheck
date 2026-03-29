@@ -1,0 +1,35 @@
+{
+  "version": 1,
+  "skills": {
+    "playwright-cli": {
+      "source": "microsoft/playwright-cli",
+      "sourceType": "github",
+      "computedHash": "a1243fa79a233960647c4cc4b7f3b743cb4893b63fb2d5b04f118c368d9e432b"
+    },
+    "selenium-automation": {
+      "source": "mindrally/skills",
+      "sourceType": "github",
+      "computedHash": "76be5121f6975cfbc50c1057613e473580955cbb77ac42c11367853f80dfdd0e"
+    },
+    "vitest": {
+      "source": "onmax/nuxt-skills",
+      "sourceType": "github",
+      "computedHash": "04ed1b09da8ac778d693ad12fab49b1c48aadfe1758fe13eb4d6de3fdcbb22f4"
+    },
+    "webapp-testing": {
+      "source": "anthropics/skills",
+      "sourceType": "github",
+      "computedHash": "cf8e5916d474886bd67b09691247f43f331523008b7d366064bc607ab42d6302"
+    },
+    "playwright": {
+      "source": "microsoft/playwright-cli",
+      "sourceType": "github",
+      "computedHash": "b486a8ef5f701d622012dbf9b4915a75acd2d0bd4383718a3837ce63f736a6b3"
+    },
+    "screenshot": {
+      "source": "anthropics/claude-code",
+      "sourceType": "github",
+      "computedHash": "5776fc64bea97ba215226950a5a1fd3c6a4435f54b360ae1c6d1cd312670764b"
+    }
+  }
+}
