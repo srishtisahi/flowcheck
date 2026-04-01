@@ -20,5 +20,3 @@ __pycache__/
 .DS_Store
 
 # Local agent skill state; not part of the project source
-.agents/
-.claude/
